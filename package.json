@@ -1,0 +1,21 @@
+{
+    "name": "undertone-light-theme",
+    "displayName": "undertone-light-theme",
+    "description": "A light theme from brackets-light-pro",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "undertone",
+                "uiTheme": "vs",
+                "path": "./themes/undertone-color-theme.json"
+            }
+        ]
+    }
+}
