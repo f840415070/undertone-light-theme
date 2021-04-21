@@ -4,6 +4,10 @@
     "description": "A light theme from brackets-light-pro",
     "version": "0.0.1",
     "publisher": "fanyibin",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/f840415070/undertone-light-theme"
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
