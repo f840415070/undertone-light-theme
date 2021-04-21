@@ -3,6 +3,7 @@
     "displayName": "undertone-light-theme",
     "description": "A light theme from brackets-light-pro",
     "version": "0.0.1",
+    "publisher": "fanyibin",
     "engines": {
         "vscode": "^1.55.0"
     },
