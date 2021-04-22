@@ -17,7 +17,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#10a567"
+        "foreground": "#6B8E23"
       }
     },
 		{
@@ -69,7 +69,7 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#CD6889"
+        "foreground": "#C1651A"
       }
     },
     {
@@ -229,7 +229,7 @@
         "meta.at-rule constant.numeric.css keyword.other.unit.css"
       ],
       "settings": {
-        "foreground": "#6d8600"
+        "foreground": "#10a567"
       }
     },
     {
@@ -456,21 +456,21 @@
         "variable.language.this.tsx"
       ],
       "settings": {
-        "foreground": "#CD69C9"
+        "foreground": "#386ac3"
       }
     },
     {
       "name": "parameter function",
       "scope": "function.parameter",
       "settings": {
-        "foreground": "#CD6889"
+        "foreground": "#C1651A"
       }
     },
     {
       "name": "parameter function",
       "scope": "function.parameter",
       "settings": {
-        "foreground": "#CD6889"
+        "foreground": "#C1651A"
       }
     },
     {
@@ -527,7 +527,7 @@
         "name": "Type Name",
         "scope": "entity.name.type",
         "settings": {
-            "foreground": "#163fe4"
+            "foreground": "#CD69C9"
         }
     },
     {
@@ -535,7 +535,7 @@
         "scope":
         "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
         "settings": {
-            "foreground": "#42567b"
+            "foreground": "#12AA9C"
         }
     },
     {
